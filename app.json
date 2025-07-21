@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "my-expo-app",
+    "name": "Movieflix",
     "slug": "my-expo-app",
     "version": "1.0.0",
     "main": "expo-router/entry",
 
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/images/logo.png"
     },
 
     "experiments": {
@@ -16,12 +16,12 @@
     "plugins": [],
 
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/images/logo.png",
 
     "userInterfaceStyle": "light",
 
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/images/logo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -31,7 +31,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/images/logo.png",
         "backgroundColor": "#ffffff"
       }
     }
